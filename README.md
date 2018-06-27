@@ -13,3 +13,5 @@ Finally, because this is a simple code-along, you won't actually have to submit 
 (And yes, we'll be updating the video ASAP!)
 
 <p data-visibility='hidden'>PHRG Bootstrap Code-Along</p>
+
+This is an example website using the Twitter Bootstrap v4.1.1 Framework. More information on using bootstrap can be found at [GetBootstrap.com](http://getbootstrap.com)
